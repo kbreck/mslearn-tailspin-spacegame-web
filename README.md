@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kbreckenridge/Testing/_apis/build/status/kbreck.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kbreckenridge/Testing/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
